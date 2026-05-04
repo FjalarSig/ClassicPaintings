@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { painterPresetMap, type PainterId } from "../../../lib/painters";
 
-const MODEL = "gemini-2.5-flash-image-preview";
+const MODEL = "gemini-3.1-flash-image-preview";
 
 export async function POST(request: NextRequest) {
   try {

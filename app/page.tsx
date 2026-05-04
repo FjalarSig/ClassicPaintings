@@ -190,7 +190,7 @@ export default function HomePage() {
       <header className="app-header">
         <h1>Painter Style Studio</h1>
         <p>
-          Upload a photo and see it reimagined through iconic painters&apos; eyes — powered by Gemini 2.5 Flash Image. Build v2, May 2026.
+          Upload a photo and see it reimagined through iconic painters&apos; eyes — powered by Gemini 2.5 Flash Image. Build v3, May 2026.
         </p>
       </header>
 
